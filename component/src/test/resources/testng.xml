@@ -22,8 +22,8 @@
 <suite name="IBMMQ-IO-Test-Suite">
     <test name="ibmmq-tests" enabled="true" preserve-order="true" parallel="false">
         <classes>
-            <!--<class name="org.wso2.extension.siddhi.io.ibmmq.source.IBMMQSourceTestCase"/>-->
-            <!--<class name="org.wso2.extension.siddhi.io.ibmmq.sink.IBMMQSinkTestCase"/>-->
+            <!--<class name="IBMMQSourceTestCase"/>-->
+            <!--<class name="IBMMQSinkTestCase"/>-->
         </classes>
     </test>
 </suite>
