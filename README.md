@@ -10,11 +10,7 @@ Siddhi IO IBMMQ
 
 The **siddhi-io-ibmmq extension** is an extension to <a target="_blank" href="https://wso2.github.io/siddhi">Siddhi</a> that used to receive and publish events to ibm Message queue.
 
-Find some useful links below:
-
-* <a target="_blank" href="https://github.com/wso2-extensions/siddhi-io-ibmmq">Source code</a>
-* <a target="_blank" href="https://github.com/wso2-extensions/siddhi-io-ibmmq/releases">Releases</a>
-* <a target="_blank" href="https://github.com/wso2-extensions/siddhi-io-ibmmq/issues">Issue tracker</a>
+For information on <a target="_blank" href="https://siddhi.io/">Siddhi</a> and it's features refer <a target="_blank" href="https://siddhi.io/redirect/docs.html">Siddhi Documentation</a>. 
 
 ## Downloads
 * Versions 3.x and above with group id `io.siddhi.extension.*` from <a target="_blank" href="https://mvnrepository.com/artifact/io.siddhi.extension.io.ibmmq/siddhi-io-ibmmq/">here</a>.
@@ -22,12 +18,12 @@ Find some useful links below:
 
 ## Latest API Docs 
 
-Latest API Docs is <a target="_blank" href="https://wso2-extensions.github.io/siddhi-io-ibmmq/api/1.1.2">1.1.2</a>.
+Latest API Docs is <a target="_blank" href="https://siddhi-io.github.io/siddhi-io-ibmmq/api/1.1.2">1.1.2</a>.
 
 ## Features
 
-* <a target="_blank" href="https://wso2-extensions.github.io/siddhi-io-ibmmq/api/1.1.2/#ibmmq-sink">ibmmq</a> *<a target="_blank" href="https://wso2.github.io/siddhi/documentation/siddhi-4.0/#sink">(Sink)</a>*<br><div style="padding-left: 1em;"><p>IBM MQ sink allows you to publish messages to an IBM MQ broker.</p></div>
-* <a target="_blank" href="https://wso2-extensions.github.io/siddhi-io-ibmmq/api/1.1.2/#ibmmq-source">ibmmq</a> *<a target="_blank" href="https://wso2.github.io/siddhi/documentation/siddhi-4.0/#source">(Source)</a>*<br><div style="padding-left: 1em;"><p>IBM MQ source allows you to subscribe to an IBM message queue and receive messages. It has the ability to receive messages of the 'map' and 'text' message formats.</p></div>
+* <a target="_blank" href="https://siddhi-io.github.io/siddhi-io-ibmmq/api/1.1.2/#ibmmq-sink">ibmmq</a> *<a target="_blank" href="https://wso2.github.io/siddhi/documentation/siddhi-4.0/#sink">(Sink)</a>*<br><div style="padding-left: 1em;"><p>IBM MQ sink allows you to publish messages to an IBM MQ broker.</p></div>
+* <a target="_blank" href="https://siddhi-io.github.io/siddhi-io-ibmmq/api/1.1.2/#ibmmq-source">ibmmq</a> *<a target="_blank" href="https://wso2.github.io/siddhi/documentation/siddhi-4.0/#source">(Source)</a>*<br><div style="padding-left: 1em;"><p>IBM MQ source allows you to subscribe to an IBM message queue and receive messages. It has the ability to receive messages of the 'map' and 'text' message formats.</p></div>
 
 ## Dependencies
 There are no other dependencies needed for this extension.

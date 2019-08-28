@@ -148,9 +148,9 @@
     </properties>
 
     <scm>
-        <url>https://github.com/wso2-extensions/siddhi-io-ibmmq.git</url>
-        <developerConnection>scm:git:https://github.com/wso2-extensions/siddhi-io-ibmmq.git</developerConnection>
-        <connection>scm:git:https://github.com/wso2-extensions/siddhi-io-ibmmq.git</connection>
+        <url>https://github.com/siddhi-io/siddhi-io-ibmmq.git</url>
+        <developerConnection>scm:git:https://github.com/siddhi-io/siddhi-io-ibmmq.git</developerConnection>
+        <connection>scm:git:https://github.com/siddhi-io/siddhi-io-ibmmq.git</connection>
         <tag>HEAD</tag>
     </scm>
 
