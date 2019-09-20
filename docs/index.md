@@ -26,7 +26,7 @@ Latest API Docs is <a target="_blank" href="https://siddhi-io.github.io/siddhi-i
 * <a target="_blank" href="https://siddhi-io.github.io/siddhi-io-ibmmq/api/1.1.2/#ibmmq-source">ibmmq</a> *<a target="_blank" href="https://wso2.github.io/siddhi/documentation/siddhi-4.0/#source">(Source)</a>*<br><div style="padding-left: 1em;"><p>IBM MQ source allows you to subscribe to an IBM message queue and receive messages. It has the ability to receive messages of the 'map' and 'text' message formats.</p></div>
 
 ## Dependencies
-There are no other dependencies needed for this extension.
+Please add <a target="_blank" href="http://central.maven.org/maven2/com/ibm/mq/com.ibm.mq.allclient/9.0.5.0/com.ibm.mq.allclient-9.0.5.0.jar">com.ibm.mq.allclient_9.0.5.0_1.0.0.jar</a> and <a target="_blank" href="http://central.maven.org/maven2/javax/jms/javax.jms-api/2.0.1/javax.jms-api-2.0.1.jar">javax.jms-api-2.0.1.jar</a> dependencies
 
 ## Installation
 For installing this extension on various siddhi execution environments refer Siddhi documentation section on <a target="_blank" href="https://siddhi.io/redirect/add-extensions.html">adding extensions</a>.
