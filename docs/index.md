@@ -11,7 +11,7 @@ Find some useful links below:
 
 ## Latest API Docs 
 
-Latest API Docs is <a target="_blank" href="https://wso2-extensions.github.io/siddhi-io-ibmmq/api/1.1.2">1.1.2</a>.
+Latest API Docs is <a target="_blank" href="https://wso2-extensions.github.io/siddhi-io-ibmmq/api/1.2.0">1.2.0</a>.
 
 ## How to use 
 
@@ -23,7 +23,7 @@ Latest API Docs is <a target="_blank" href="https://wso2-extensions.github.io/si
 
     - Download and install IBM MQ Websphere v7.5.0 or higher
     - Create a queue manager, queue, and a channel. 
-    - Download [com.ibm.mq.allclient_9.0.5.0_1.0.0.jar](http://central.maven.org/maven2/com/ibm/mq/com.ibm.mq.allclient/9.0.5.0/com.ibm.mq.allclient-9.0.5.0.jar) and [javax.jms-api-2.0.1.jar] (http://central.maven.org/maven2/javax/jms/javax.jms-api/2.0.1/javax.jms-api-2.0.1.jar).
+    - Download [com.ibm.mq.allclient_9.0.5.0_1.0.0.jar](http://central.maven.org/maven2/com/ibm/mq/com.ibm.mq.allclient/9.0.5.0/com.ibm.mq.allclient-9.0.5.0.jar) and [javax.jms-api-2.0.1.jar](http://central.maven.org/maven2/javax/jms/javax.jms-api/2.0.1/javax.jms-api-2.0.1.jar).
     and copy to the `<SP_HOME>/lib` directory
                 
  
@@ -31,7 +31,7 @@ Latest API Docs is <a target="_blank" href="https://wso2-extensions.github.io/si
 
 - This extension is shipped by default with WSO2 Stream Processor, if you wish to use an alternative version of this extension you can replace the component <a target="_blank" href="https://github.com/wso2-extensions/siddhi-io-ibmmq/releases">jar</a> that can be found in the `<STREAM_PROCESSOR_HOME>/lib` directory.
 
-**Using the extension as a <a target="_blank" href="https://wso2.github.io/siddhi/documentation/running-as-a-java-library">java library</a>**
+**Using the extension as a <a target="_blank" href="https://siddhi.io/en/v5.0/docs/siddhi-as-a-java-library/">java library</a>**
 
 * This extension can be added as a maven dependency along with other Siddhi dependencies to your project.
 
@@ -55,8 +55,8 @@ Latest API Docs is <a target="_blank" href="https://wso2-extensions.github.io/si
 
 ## Features
 
-* <a target="_blank" href="https://wso2-extensions.github.io/siddhi-io-ibmmq/api/1.1.2/#ibmmq-sink">ibmmq</a> *<a target="_blank" href="https://wso2.github.io/siddhi/documentation/siddhi-4.0/#sink">(Sink)</a>*<br><div style="padding-left: 1em;"><p>IBM MQ sink allows you to publish messages to an IBM MQ broker.</p></div>
-* <a target="_blank" href="https://wso2-extensions.github.io/siddhi-io-ibmmq/api/1.1.2/#ibmmq-source">ibmmq</a> *<a target="_blank" href="https://wso2.github.io/siddhi/documentation/siddhi-4.0/#source">(Source)</a>*<br><div style="padding-left: 1em;"><p>IBM MQ source allows you to subscribe to an IBM message queue and receive messages. It has the ability to receive messages of the 'map' and 'text' message formats.</p></div>
+* <a target="_blank" href="https://wso2-extensions.github.io/siddhi-io-ibmmq/api/1.2.0/#ibmmq-sink">ibmmq</a> *<a target="_blank" href="http://siddhi.io/documentation/siddhi-5.x/query-guide-5.x/#sink">(Sink)</a>*<br><div style="padding-left: 1em;"><p>IBM MQ sink allows you to publish messages to an IBM MQ broker.</p></div>
+* <a target="_blank" href="https://wso2-extensions.github.io/siddhi-io-ibmmq/api/1.2.0/#ibmmq-source">ibmmq</a> *<a target="_blank" href="http://siddhi.io/documentation/siddhi-5.x/query-guide-5.x/#source">(Source)</a>*<br><div style="padding-left: 1em;"><p>IBM MQ source allows you to subscribe to an IBM message queue and receive messages. It has the ability to receive messages of the 'map' and 'text' message formats.</p></div>
 
 ## How to Contribute
  
