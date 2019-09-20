@@ -29,7 +29,7 @@ google_analytics:
   - UA-103065-28
   - auto
 markdown_extensions:
-  - markdown.extensions.admonition
+- markdown.extensions.admonition
 pages:
 - Information: index.md
 - API Docs:
